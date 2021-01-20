@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "gas-reports",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "xlsx": "^0.16.9",
+    "dateformat": "^4.4.1",
+    "bootstrap": "^4.6.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
